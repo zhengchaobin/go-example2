@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "4ENIBXO6+QnbPGSZdII9KbESUW8=",
+			"path": "github.com/zhengchaobin/go-example1",
+			"revision": "cccc5dc308977ff37ba046aa534446dc302180dc",
+			"revisionTime": "2019-09-27T02:47:31Z"
+		}
+	],
+	"rootPath": "go-example2"
+}
