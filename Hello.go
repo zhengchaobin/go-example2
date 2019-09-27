@@ -2,7 +2,7 @@ package main
 
 import 	(
 	"fmt"
-	"zcb-go/zcb"
+	"github.com/zhengchaobin/go-example1"
 )
 
 // :=声明只能在函数中出现
